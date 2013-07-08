@@ -1,4 +1,4 @@
-# Data saved '2013-07-04 00:56:00' for id '1372892159.98.37607'
+# Data saved '2013-07-08 10:31:52' for id '1372892159.98.37607'
 aliasname=
 bookmarks{}=
 css_url=
@@ -15,21 +15,21 @@ enc_password={PASSLIB}$6$rounds=60000$H22SGq7XgMoqtxEA$oR3DbvSVVXlMgsdVnAdExPx5A
 jabber_subscribed_events[]=
 jid=
 language=
-last_saved=1372892160.29
+last_saved=1373272312.24
 mailto_author=0
 name=mathrho
 quicklinks[]=
-real_language=
+real_language=en
 recoverpass_key=
 remember_last_visit=0
 remember_me=1
 show_comments=0
 show_fancy_diff=1
-show_nonexist_qm=False
+show_nonexist_qm=0
 show_page_trail=1
 show_toolbar=1
 show_topbottom=0
 subscribed_pages[]=
-theme_name=modernized
+theme_name=gugiel
 tz_offset=0
 wikiname_add_spaces=0
