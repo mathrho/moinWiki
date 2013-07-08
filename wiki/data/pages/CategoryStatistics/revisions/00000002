@@ -1,0 +1,17 @@
+##master-page:CategoryTemplate
+##master-date:Unknown-Date
+#format wiki
+#language en
+
+= Mathematical Statistics (数理统计) =
+
+数理统计学是统计学的数学基础，从数学的角度去研究统计学，为各种应用统计学提供理论支持。它研究怎样有效地收集、整理和分析带有随机性的数据，以对所考察的问题作出推断或预测，直至为采取一定的决策和行动提供依据和建议的数学分支。 
+
+To add a page to this category, add a link to this page on the last line of the page. You can add multiple categories to a page.
+
+'''List of pages in this category:'''
+
+<<FullSearchCached(category:CategoryMathematicalStatistics)>>
+
+----
+CategoryMathematics

@@ -1,0 +1,69 @@
+/*  category.css - some additional styles for the CategoryMenu macro
+                   which can be included in screen.css using...
+
+                   @import "category.css";
+
+                   ...before any rules.
+
+Copyright (c) 2008 by Paul Boddie
+Licensed under the GNU GPL (v2 or later), see COPYING.txt for details.
+*/
+
+/* Category menus... */
+
+ul.category-menu {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    width: 20em;
+    float: left;
+    margin-right: 2em;
+}
+
+/* Prevent issues with the above float. */
+
+hr {
+    clear: left;
+}
+
+ul.category-submenu {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 0.25em;
+}
+
+ul.category-menu li {
+    list-style: none;
+    padding: 0.25em;
+    background-color: #073683;
+    color: white;
+}
+
+ul.category-menu a,
+ul.category-menu a:visited,
+ul.category-menu a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+ul.category-menu li.selected,
+ul.category-menu li:hover {
+    background-color: #10adf7;
+}
+
+ul.category-submenu li.selected {
+    background-color: #073683;
+}
+
+ul.category-menu li.current,
+ul.category-submenu li.selected {
+    font-weight: bold;
+}
+
+ul.category-submenu li {
+    font-weight: normal;
+}
+
+/* vim: tabstop=4 expandtab shiftwidth=4
+ */

@@ -327,3 +327,6 @@ p.info {
 #previewbelow, #preview {
     clear: both;
 }
+
+/* Category menus... */
+@import "category.css";
