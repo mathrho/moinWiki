@@ -1,4 +1,4 @@
-# Data saved '2013-07-08 10:31:52' for id '1372892159.98.37607'
+# Data saved '2013-07-09 14:20:43' for id '1372892159.98.37607'
 aliasname=
 bookmarks{}=
 css_url=
@@ -14,12 +14,12 @@ email_subscribed_events[]=PageChangedEvent	PageRenamedEvent	PageDeletedEvent	Pag
 enc_password={PASSLIB}$6$rounds=60000$H22SGq7XgMoqtxEA$oR3DbvSVVXlMgsdVnAdExPx5AGvHwhmWPtFox0Je0VzZLEcr87eyFdhi7V9LLAA333O3.8Swh/ltKhnxWkvKB0
 jabber_subscribed_events[]=
 jid=
-language=
-last_saved=1373272312.24
+language=en
+last_saved=1373372443.68
 mailto_author=0
 name=mathrho
 quicklinks[]=
-real_language=en
+real_language=
 recoverpass_key=
 remember_last_visit=0
 remember_me=1
@@ -32,4 +32,4 @@ show_topbottom=0
 subscribed_pages[]=
 theme_name=gugiel
 tz_offset=0
-wikiname_add_spaces=0
+wikiname_add_spaces=1

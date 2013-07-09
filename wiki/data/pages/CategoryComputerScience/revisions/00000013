@@ -1,0 +1,15 @@
+##master-page:CategoryTemplate
+##master-date:Unknown-Date
+#format wiki
+#language en
+
+= Computer Science =
+
+
+'''List of pages in this category:'''
+
+<<FullSearchCached(category:CategoryComputerScience)>>
+
+
+----
+CategoryCategory
